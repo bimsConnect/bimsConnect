@@ -5,7 +5,7 @@
 💼 Skills:  
 **Languages**: PHP , JavaScript  
   
-**Frameworks**: Ci4 , Next.Js
+**Frameworks**: Ci4 , Next.Js, React
 
 **Tools**: Git, GitHub, VSCode, Figma  
 
