@@ -3,7 +3,7 @@ A passionate Front-End Developer 🚀 with a growing interest in building intuit
 Though my journey in front-end development is just beginning, I am eager to learn, adapt, and contribute to meaningful projects that make an impact. Let's create something extraordinary together!
 
 * 🥋 I also do backend work but I wanted to specialise in the front end.
-* 🖥️  See my portfolio at [My-Portofolio](https://my-portofolio-bimsconnect.vercel.app/)
+* 🖥️  See my portfolio at [My-Portofolio](https://portofolio-2-0-three.vercel.app/)
 * ✉️  You can contact me at [Email](mailto:devourbisma@gmail.com)
 * 🌱  I’m currently learning Web3 Developer
 
