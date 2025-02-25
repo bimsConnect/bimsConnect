@@ -2,9 +2,10 @@ Hi all, I'm Bisma 👋
 A passionate Front-End Developer 🚀 with a growing interest in building intuitive and responsive web applications. I have a little experience working with JavaScript, React.js, Node.js, and React Native, exploring their potential to create clean and functional designs.
 Though my journey in front-end development is just beginning, I am eager to learn, adapt, and contribute to meaningful projects that make an impact. Let's create something extraordinary together!
 
-* 🌍  I'm based in Bekasi
+* 🥋 I also do backend work but I wanted to specialise in the front end.
 * 🖥️  See my portfolio at [My-Portofolio](https://my-portofolio-bimsconnect.vercel.app/)
 * ✉️  You can contact me at [Email](mailto:devourbisma@gmail.com)
+* 🌱  I’m currently learning Web3 Developer
 
 
 ### Tech Stack
